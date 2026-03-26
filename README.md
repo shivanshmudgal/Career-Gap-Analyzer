@@ -1,4 +1,4 @@
-# PathPilot AI — Career Decision System
+# Career Gap Analyzer
 
 An AI-powered career decision-support web app built with Python Flask.
 
